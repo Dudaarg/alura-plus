@@ -4,6 +4,8 @@
 <h2>Acesso ao Projeto</h2>
 https://alura-plus-six-roan.vercel.app/
 
+https://dudaarg.github.io/alura-plus/
+
 <h2>Tecnologias utilizadas</h2>
 <p>HTML e CSS.</p>
 
